@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+.netlify
+.tanstack
+
+# Generated route tree (recreated by the TanStack Router plugin on build)
+src/routeTree.gen.ts
+
+# Env / local
+.env
+.env.*
+!.env.example
+
+# Logs / OS
+*.log
+.DS_Store

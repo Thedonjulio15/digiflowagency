@@ -22,6 +22,7 @@ function Nav() {
     { label: 'Portfolio', href: '#portfolio' },
     { label: 'Results', href: '#testimonials' },
     { label: 'About', href: '#about' },
+    { label: 'Screener', href: '/screener' },
   ]
 
   return (
