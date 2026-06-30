@@ -17,3 +17,7 @@ src/routeTree.gen.ts
 # Logs / OS
 *.log
 .DS_Store
+
+# Arb-bot: never commit real API keys or build artifacts
+arb-bot/target/
+arb-bot/src/main/resources/config.properties
